@@ -32,7 +32,7 @@ namespace SerialCommunicate
             }
             catch
             {
-                MessageBox.Show("端口错误b,请检查串口a", "错误");
+                MessageBox.Show("端口错误,请检查串口", "错误");
 
             }
         }
